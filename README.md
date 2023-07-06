@@ -1,2 +1,2 @@
-# hiden-fields-tilda-form
+# hidden-fields-tilda-form
 JavaScript Cookie and Local Storage
